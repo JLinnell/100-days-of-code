@@ -18,6 +18,7 @@
 ### Day 3: February 5, 2019
 
 **Today's Progress**: 
+
 **Thoughts** 
 
 **Link(s) to work**
