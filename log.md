@@ -6,7 +6,7 @@
 
 **Thoughts:** It feels great to be practicing and actively brushing up on javascript.
 
-### Day 2: February 4, 2019 (1hr)
+### Day 2: February 4th (1hr)
 
 **Today's Progress**: Completed several Free Code Camp challenges and worked on Sliced App.
 
@@ -15,7 +15,7 @@
 **Link(s) to work**: 
 
 
-### Day 3: February 5, 2019 (1hr)
+### Day 3: February 5th (1hr)
 
 **Today's Progress**: Tweaked my portfolio to submit to my project manager.
 
