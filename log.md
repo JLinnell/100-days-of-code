@@ -24,7 +24,7 @@
 **Link(s) to work**
 
 
-### Day 3: February 6th (1hr)
+### Day 4: February 6th (1hr)
 
 **Today's Progress**: Tweaked my portfolio to submit to my project manager.
 
@@ -32,7 +32,7 @@
 
 **Link(s) to work**
 
-### Day 3: February 7th (1hr)
+### Day 5: February 7th (1hr)
 
 **Today's Progress**: Finished and sent in my portfolio
 
@@ -40,7 +40,7 @@
 
 **Link(s) to work**
 
-### Day 3: February 8th (1hr)
+### Day 6: February 8th (1hr)
 
 **Today's Progress**: Worked through excercises on Free Code Camp
 
@@ -49,7 +49,7 @@
 **Link(s) to work**
 
 
-### Day 3: February 9th (hr)
+### Day 7: February 9th (hr)
 
 **Today's Progress**: 
 **Thoughts** : 
