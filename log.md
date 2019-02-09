@@ -22,3 +22,38 @@
 **Thoughts** : Super excited to be so close to finishing my program!!!
 
 **Link(s) to work**
+
+
+### Day 3: February 6th (1hr)
+
+**Today's Progress**: Tweaked my portfolio to submit to my project manager.
+
+**Thoughts** : Super excited to be so close to finishing my program!!!
+
+**Link(s) to work**
+
+### Day 3: February 7th (1hr)
+
+**Today's Progress**: Finished and sent in my portfolio
+
+**Thoughts** : Mission accomplished!!!
+
+**Link(s) to work**
+
+### Day 3: February 8th (1hr)
+
+**Today's Progress**: Worked through excercises on Free Code Camp
+
+**Thoughts** : It feels great to stay sharp with the practice problems.
+
+**Link(s) to work**
+
+
+### Day 3: February 9th (hr)
+
+**Today's Progress**: 
+**Thoughts** : 
+
+**Link(s) to work**
+
+
