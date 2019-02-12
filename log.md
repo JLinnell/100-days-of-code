@@ -49,11 +49,29 @@
 **Link(s) to work**
 
 
-### Day 7: February 9th (hr)
+### Day 7: February 9th (1hr)
 
-**Today's Progress**: 
+**Today's Progress**: FCC exercises 
 **Thoughts** : 
 
 **Link(s) to work**
+
+
+### Day 8: February 10th (1hr)
+
+**Today's Progress**: FCC exercises  and pushed my new project to github and my portfolio
+**Thoughts** : 
+
+**Link(s) to work**
+
+
+### Day 9: February 11th (2hr)
+
+**Today's Progress**: Refactured code from my other apps 
+**Thoughts** : Going to Whole Foods was a great way to deepen and  my focus and strengthend my concentration as opposed to staying in.
+
+**Link(s) to work*
+
+
 
 
