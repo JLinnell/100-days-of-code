@@ -70,7 +70,22 @@
 **Today's Progress**: Refactured code from my other apps 
 **Thoughts** : Going to Whole Foods was a great way to deepen and  my focus and strengthend my concentration as opposed to staying in.
 
-**Link(s) to work*
+**Link(s) to work**
+
+### Day 10: February 12th (1hr)
+
+**Today's Progress**: 
+**Thoughts** : 
+
+**Link(s) to work**
+
+
+### Day 11: February 13th (1hr)
+
+**Today's Progress**: 
+**Thoughts** : 
+
+**Link(s) to work**
 
 
 
