@@ -72,9 +72,9 @@
 
 **Link(s) to work**
 
-### Day 10: February 12th (1hr)
+### Day 10: February 12th (1hr25m)
 
-**Today's Progress**: 
+**Today's Progress**: Refactured code and updated portfolio
 **Thoughts** : 
 
 **Link(s) to work**
