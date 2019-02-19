@@ -72,14 +72,26 @@
 
 ### Day 12: February 14th ()
 
-**Today's Progress**: 
+**Today's Progress**: SICK
 
 
 ### Day 13: February 15th ()
 
-**Today's Progress**: 
+**Today's Progress**: SICK
+
+
+### Day 14: February 16th ()
+
+**Today's Progress**: SICK
+
+
+### Day 15: February 17th ()
+
+**Today's Progress**:  SICK
 
 
 
+### Day 16: February 18th (1hr)
 
+**Today's Progress**: refactored code from my previuos apps
 
