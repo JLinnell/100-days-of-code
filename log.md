@@ -1,97 +1,92 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 3, 2019 (1hr)
+### Day 1: February 24, 2019 (2hr)
 
-**Today's Progress**: Free code camp and Code Fight excercises
+**Today's Progress**: Free code camp and Sliced
 
 **Thoughts:** It feels great to be practicing and actively brushing up on javascript.
 
-### Day 2: February 4th (1hr)
+### Day 2: February 25th (hr)
 
-**Today's Progress**: Completed several Free Code Camp challenges and worked on Sliced App.
-
-**Thoughts**: I'm excited to start my app!
-
-
-
-### Day 3: February 5th (1hr)
-
-**Today's Progress**: Tweaked my portfolio to submit to my project manager.
-
-**Thoughts** : Super excited to be so close to finishing my program!!!
+**Today's Progress**: 
+**Thoughts**: 
 
 
 
-### Day 4: February 6th (1hr)
+### Day 3: February 26th (hr)
 
-**Today's Progress**: Tweaked my portfolio to submit to my project manager.
+**Today's Progress**: 
 
-**Thoughts** : Super excited to be so close to finishing my program!!!
-
-
-### Day 5: February 7th (1hr)
-
-**Today's Progress**: Finished and sent in my portfolio
-
-**Thoughts** : Mission accomplished!!!
+**Thoughts** : 
 
 
-### Day 6: February 8th (1hr)
 
-**Today's Progress**: Worked through excercises on Free Code Camp
+### Day 4: February 27th (1hr)
 
-**Thoughts** : It feels great to stay sharp with the practice problems.
+**Today's Progress**: 
 
-
-### Day 7: February 9th (1hr)
-
-**Today's Progress**: FCC exercises 
+**Thoughts** : 
 
 
-### Day 8: February 10th (1hr)
+### Day 5: February 28th (hr)
 
-**Today's Progress**: FCC exercises  and pushed my new project to github and my portfolio
-
-
-### Day 9: February 11th (2hr)
-
-**Today's Progress**: Refactured code from my other apps 
-
-**Thoughts** : Going to Whole Foods was a great way to deepen and  my focus and strengthend my concentration as opposed to staying in.
+**Today's Progress**:
+**Thoughts** :  
 
 
-### Day 10: February 12th (1hr25m)
+### Day 6: March 1st (hr)
 
-**Today's Progress**: Refactured code and updated portfolio
+**Today's Progress**:
 
-
-### Day 11: February 13th (1hr)
-
-**Today's Progress**: Refactured code and updated portfolio
+**Thoughts** : 
 
 
-### Day 12: February 14th ()
+### Day 7: March 2nd (hr)
+
+**Today's Progress**:
+
+
+### Day 8: March 3rd (hr)
+
+**Today's Progress**:
+
+### Day 9: March 4th (hr)
+
+**Today's Progress**: 
+**Thoughts** :
+
+
+### Day 10: March 5th (hr)
+
+**Today's Progress**: 
+
+
+### Day 11: March 6th (hr)
+
+**Today's Progress**: 
+
+
+### Day 12: March 7th ()
 
 **Today's Progress**: SICK
 
 
-### Day 13: February 15th ()
+### Day 13: March 8th ()
 
-**Today's Progress**: SICK
-
-
-### Day 14: February 16th ()
-
-**Today's Progress**: SICK
+**Today's Progress**: 
 
 
-### Day 15: February 17th ()
+### Day 14: March 9th ()
+
+**Today's Progress**: 
+
+
+### Day 15: March 10th ()
 
 **Today's Progress**:  SICK
 
 
 
-### Day 16: February 18th (1hr)
+### Day 16: March 11th (hr)
 
-**Today's Progress**: refactored code from my previuos apps
-
+**Today's Progress**: 
