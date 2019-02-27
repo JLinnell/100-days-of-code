@@ -6,16 +6,16 @@
 
 **Thoughts:** It feels great to be practicing and actively brushing up on javascript.
 
-### Day 2: February 25th (hr)
+### Day 2: February 25th (2hr)
 
-**Today's Progress**: 
+**Today's Progress**: Free code camp and sliced
 **Thoughts**: 
 
 
 
-### Day 3: February 26th (hr)
+### Day 3: February 26th (1hr)
 
-**Today's Progress**: 
+**Today's Progress**: Sliced
 
 **Thoughts** : 
 
